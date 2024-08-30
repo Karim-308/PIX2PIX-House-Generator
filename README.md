@@ -24,6 +24,7 @@ cd House2Real
 ```
 
 ## Output Examples
-![Screenshot 2024-08-30 203017](https://github.com/user-attachments/assets/4180cae8-f4a8-462f-ae4d-38dc2849eebb)
+![Example2](https://github.com/user-attachments/assets/4180cae8-f4a8-462f-ae4d-38dc2849eebb)
 
+![Example2](https://github.com/user-attachments/assets/7181cba4-0611-4e51-93c4-1dd68e12452e)
 
