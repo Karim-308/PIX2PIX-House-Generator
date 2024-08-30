@@ -31,7 +31,7 @@ Our dataset consists of architectural drawings and corresponding real house imag
 - **Variety**: Includes a diverse range of house designs, from modern urban structures to traditional homes.
 - **Preprocessing**: All images are resized to a uniform dimension and normalized to aid in model training.
 
-### Sources
+### Source
 [Find it on Kaggle](https://www.kaggle.com/datasets/ramiromep/house-thumbnail)
 
 ### Usage
