@@ -32,8 +32,7 @@ Our dataset consists of architectural drawings and corresponding real house imag
 - **Preprocessing**: All images are resized to a uniform dimension and normalized to aid in model training.
 
 ### Sources
-[The images are sourced from various public architectural databases and real estate listings to provide a comprehensive learning dataset.
-](https://www.kaggle.com/datasets/ramiromep/house-thumbnail)
+[Find it on Kaggle](https://www.kaggle.com/datasets/ramiromep/house-thumbnail)
 
 ### Usage
 The dataset is split into training and validation sets. The training set is used to train the GAN, while the validation set helps in fine-tuning the model parameters and preventing overfitting.
