@@ -15,3 +15,10 @@ Ensure you have Jupyter Notebook or JupyterLab installed, which can be done thro
 ```bash
 pip install notebook
 ```
+## Installation
+Clone the repository and navigate to the project directory:
+
+```bash
+git clone https://github.com/yourusername/House2Real.git
+cd House2Real
+```
