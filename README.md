@@ -24,5 +24,5 @@ cd House2Real
 ```
 
 ## Output Examples
-[Example 1](https://www.imghippo.com/i/q1uj61725039411.png)
+![Example 1](https://www.imghippo.com/i/q1uj61725039411.png)
 
